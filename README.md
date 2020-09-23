@@ -53,7 +53,7 @@ I'm always open to talk about anything. I love awesome contributions and hence l
 [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@ashishcodes) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-nandan-singh/) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ashish?style=social)](https://twitter.com/ashishnandansin)
-[![Stackoverflow](https://img.shields.io/twitter/follow/Ashish?style=social)](https://stackoverflow.com/users/9237049/ashish-singh)
+[![Stackoverflow](https://img.shields.io/stackoverflow/follow/Ashish?style=social)](https://stackoverflow.com/users/9237049/ashish-singh)
 
 
 ---------
