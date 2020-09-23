@@ -32,10 +32,24 @@ I'm always open to talk about anything. I love awesome contributions and hence l
 ![Generic badge](https://img.shields.io/badge/Akshat-Gupta-orange) 
 
 ## My Tech Stack :computer:
-<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-CSS-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-MaterializeCSS-pink?style=for-the-badge"> <img src="https://img.shields.io/badge/-Bootstrap-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Zurb_Foundation-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-JQuery-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Azure-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Heroku-pink?style=for-the-badge">  <img src="https://img.shields.io/badge/-SEO-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-SEM-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-CSS-purple?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-React-blue?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-NodeJS-Neon?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-MaterializeCSS-pink?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-Bootstrap-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/-JQuery-yellow?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/-Netlify-green?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-Heroku-pink?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-Gatsby-red?style=for-the-badge">
+
 
 ## What I Am Learning :books:
-<img src="https://img.shields.io/badge/-Flutter-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Django-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-Docker-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-AWS-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Gatsby-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-D3JS-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/Unit-Testing-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-AWS-blue?style=for-the-badge">
 
 ## My Certifications :arrow_down:
 - [Responsive Web Design](https://www.freecodecamp.org/certification/ashishcodes4/responsive-web-design).
@@ -45,11 +59,15 @@ I'm always open to talk about anything. I love awesome contributions and hence l
 
 ---
 
-![Akshat Gupta's Github Stats](https://github-readme-stats.vercel.app/api?username=akshatvg&show_icons=true_color=fff&icon_color=037AFE&text_color=000000&bg_color=ffffff)
+![Ashish Singh's Github Stats](https://github-readme-stats.vercel.app/api?username=sirdarthvader&show_icons=true_color=fff&icon_color=037AFE&text_color=000000&bg_color=ffffff)
 
 ## Need help?
 
-[![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/akshatvg) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/Akshat-Gupta-279) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/akshatvg/) [![Snapchat](https://img.shields.io/badge/Snapchat-add-yellow.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/akshatvg) [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@akshatvg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatvg/) [![Twitter Follow](https://img.shields.io/twitter/follow/akshatvg?style=social)](https://twitter.com/akshatvg)
+[![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@ashishcodes) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-nandan-singh/) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ashish?style=social)](https://twitter.com/ashishnandansin)
+[![Stackoverflow](https://img.shields.io/stackoverflow/follow/Ashish?style=social)](https://stackoverflow.com/users/9237049/ashish-singh)
+
 
 ---------
 
