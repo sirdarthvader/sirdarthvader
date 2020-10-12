@@ -44,7 +44,7 @@ I'm always open to talk about anything. I love awesome contributions and hence l
 
 ---
 
-![Ashish Singh's Github Stats](https://github-readme-stats.vercel.app/api?username=sirdarthvader&show_icons=true_color=fff&icon_color=037AFE&text_color=000000&bg_color=ffffff)
+![Ashish Singh's Github Stats](https://github-readme-stats.vercel.app/api?username=sirdarthvader&show_icons=true_&theme=radical)
 
 ## Need help?
 
